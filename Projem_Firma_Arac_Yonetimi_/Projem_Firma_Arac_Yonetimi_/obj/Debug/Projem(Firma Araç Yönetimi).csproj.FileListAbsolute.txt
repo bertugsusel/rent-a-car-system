@@ -1,0 +1,11 @@
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem(Firma Araç Yönetimi).csproj.AssemblyReference.cache
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem_Firma_Araç_Yönetimi_.Properties.Resources.resources
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem(Firma Araç Yönetimi).csproj.GenerateResource.cache
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem(Firma Araç Yönetimi).csproj.CoreCompileInputs.cache
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\bin\Debug\Projem(Firma Araç Yönetimi).exe.config
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\bin\Debug\Projem(Firma Araç Yönetimi).exe
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\bin\Debug\Projem(Firma Araç Yönetimi).pdb
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem_Firma_Arac_Yonetimi_.Form1.resources
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem_Firma_Arac_Yonetimi_.Form2.resources
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem(Firma Araç Yönetimi).exe
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem(Firma Araç Yönetimi)\Projem(Firma Araç Yönetimi)\obj\Debug\Projem(Firma Araç Yönetimi).pdb

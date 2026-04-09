@@ -1,0 +1,16 @@
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\bin\Debug\Projem(Firma Araç Yönetimi).exe.config
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\bin\Debug\Projem(Firma Araç Yönetimi).exe
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\bin\Debug\Projem(Firma Araç Yönetimi).pdb
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem_Firma_Arac_Yonetimi_.csproj.AssemblyReference.cache
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem_Firma_Arac_Yonetimi_.Form1.resources
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem_Firma_Arac_Yonetimi_.Form2.resources
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem_Firma_Araç_Yönetimi_.Properties.Resources.resources
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem_Firma_Arac_Yonetimi_.csproj.GenerateResource.cache
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem_Firma_Arac_Yonetimi_.csproj.CoreCompileInputs.cache
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem(Firma Araç Yönetimi).exe
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem(Firma Araç Yönetimi).pdb
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\bin\Debug\Projem(Firma Araç Yönetimi).exe.manifest
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\bin\Debug\Projem(Firma Araç Yönetimi).application
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem(Firma Araç Yönetimi).exe.manifest
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem(Firma Araç Yönetimi).application
+C:\Users\Bertuğ\Desktop\C# Projeleri Kodlama\Projem_Firma_Arac_Yonetimi_\Projem_Firma_Arac_Yonetimi_\obj\Debug\Projem(Firma Araç Yönetimi).exe.config
