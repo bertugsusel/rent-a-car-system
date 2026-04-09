@@ -1,2 +1,5 @@
-# rent-a-car-system
-A simple car rental management system built with C# for learning purposes.
+# Rent A Car System
+
+This is a simple car rental system built with C#.
+
+I am learning programming.
